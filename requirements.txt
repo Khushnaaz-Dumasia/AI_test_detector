@@ -1,4 +1,7 @@
-Khushnaaz Day1:
-
-1. Saved the csv dataset in data/raw
-2. Preprocessed the data, using the code in the notebooks folder's file
+pandas
+numpy
+nltk
+scikit-learn
+transformers
+streamlit
+ipykernel
