@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize
 import os
 
 # Ensure the tokenizer is downloaded
-nltk.download('punkt', quiet=True)
+# nltk.download('punkt', quiet=True)
 
 def clean_and_tokenize(text):
     """Cleans text by lowercasing, removing punctuation, and tokenizing."""
