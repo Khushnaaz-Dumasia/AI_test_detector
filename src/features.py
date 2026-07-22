@@ -1,7 +1,8 @@
 # features.py
 import numpy as np
 import nltk
-# Ensure you run: nltk.download('punkt') if you haven't already
+# nltk.download('punkt', quiet=True)
+# nltk.download('punkt_tab', quiet=True)
 
 def calculate_burstiness(raw_text):
     """
